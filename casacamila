@@ -2,7 +2,7 @@
 
 
 #EXTINF:-1 tvg-id="AeE" tvg-name="A&E" tvg-logo="http://img.starbr.in/1559753182_4b72d6156df91099369211265277cf98ca748194.jpg" group-title="Variedades e Musicas",A&E
-https://streamlivea.amilpublicidades.com/hls1/aie.m3u8?wmsAuthSign=
+http://edge-aws.aovivo.club/hls/s:95.216.15.44:81/globosp_cfe21c68_49569080fd02a68249b2da4a8fd9804ff7ca87d0/playlist.m3u8
 
 
 #EXTINF:-1 tvg-id="AeE" tvg-name="A&E HD" tvg-logo="http://img.starbr.in/1559753182_4b72d6156df91099369211265277cf98ca748194.jpg" group-title="Variedades e Musicas",A&E HD
